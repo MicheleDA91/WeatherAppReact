@@ -1,2 +1,2 @@
-# WheaterAppReact
-Create a Wheater application in React
+# WeatherAppReact
+Create a Weather application in React
